@@ -1,0 +1,1 @@
+This folder contains Assignments done as part of MIMO Wireless Communications course (EE677A) taken by Dr. Rohit Budhiraja at the Indian Institute of Technology, Kanpur.

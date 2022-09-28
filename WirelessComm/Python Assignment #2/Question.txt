@@ -1,0 +1,6 @@
+Simulate multiple antenna Rayleigh fading communication systems with 𝐿 =
+2,3 antennas in PYTHON. Generate the BER curves vs SNR for QPSK 
+detection in the SNR range required to achieve at least 𝐵𝐸𝑅 = 10^−6
+for each 
+system. Superpose the analytical curves over them and compare with 𝐿 = 1
+antenna system. Submit the code and relevant plot for each system
